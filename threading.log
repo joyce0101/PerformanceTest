@@ -1,0 +1,68 @@
+2018-03-31 15:08:13,997-MainThread-DEBUG-0
+2018-03-31 15:08:13,998-MainThread-DEBUG-0
+2018-03-31 15:08:14,546-Thread-1-DEBUG-HTTPConnectionPool(host='www.lewei50.com', port=80): Read timed out. (read timeout=0.08)
+2018-03-31 15:08:14,558-1-DEBUG-HTTPConnectionPool(host='www.lewei50.com', port=80): Read timed out. (read timeout=0.08)
+2018-03-31 15:10:01,330-MainThread-DEBUG-0
+2018-03-31 15:10:01,330-MainThread-DEBUG-0
+2018-03-31 15:10:01,461-Thread-1-DEBUG-HTTPConnectionPool(host='www.lewei50.com', port=80): Read timed out. (read timeout=0.08)
+2018-03-31 15:10:01,469-1-DEBUG-HTTPConnectionPool(host='www.lewei50.com', port=80): Read timed out. (read timeout=0.08)
+2018-03-31 15:13:35,005-MainThread-DEBUG-0
+2018-03-31 15:13:35,005-MainThread-DEBUG-0
+2018-03-31 15:13:35,109-Soil_Humt-DEBUG-0.096656
+2018-03-31 15:13:35,118-D_On-Off-DEBUG-0.108646
+2018-03-31 15:15:39,238-MainThread-DEBUG-succseful 0
+2018-03-31 15:15:39,238-MainThread-DEBUG-failed 0
+2018-03-31 15:15:39,364-D_On-Off-DEBUG-0.123372
+2018-03-31 15:15:39,373-Soil_Humt-DEBUG-0.13074
+2018-03-31 15:31:49,878-MainThread-DEBUG-succseful 0
+2018-03-31 15:31:49,878-MainThread-DEBUG-failed 0
+2018-03-31 15:31:49,985-Soil_Humt-DEBUG-0.101295
+2018-03-31 15:31:49,987-D_On-Off-DEBUG-0.105238
+2018-03-31 15:34:02,505-Soil_Humt-DEBUG-HTTPConnectionPool(host='www.lewei50.com', port=80): Max retries exceeded with url: /api/V1/gateway/UpdateSensors/01 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001B46B292CC0>, 'Connection to www.lewei50.com timed out. (connect timeout=0.08)'))
+2018-03-31 15:34:02,505-Soil_Humt-DEBUG-failed 1
+2018-03-31 15:34:02,564-D_On-Off-DEBUG-HTTPConnectionPool(host='www.lewei50.com', port=80): Read timed out. (read timeout=0.08)
+2018-03-31 15:34:02,564-D_On-Off-DEBUG-failed 2
+2018-03-31 15:34:31,805-D_On-Off-DEBUG-HTTPConnectionPool(host='www.lewei50.com', port=80): Read timed out. (read timeout=0.08)
+2018-03-31 15:34:31,805-Soil_Humt-DEBUG-HTTPConnectionPool(host='www.lewei50.com', port=80): Read timed out. (read timeout=0.08)
+2018-03-31 15:34:31,805-D_On-Off-DEBUG-failed 1
+2018-03-31 15:34:31,806-Soil_Humt-DEBUG-failed 2
+2018-03-31 15:35:24,619-D_On-Off-DEBUG-0.103043
+2018-03-31 15:35:24,619-D_On-Off-DEBUG-succseful 1
+2018-03-31 15:35:24,640-Soil_Humt-DEBUG-0.122538
+2018-03-31 15:35:24,640-Soil_Humt-DEBUG-succseful 2
+2018-03-31 15:35:31,264-Soil_Humt-DEBUG-0.092706
+2018-03-31 15:35:31,264-Soil_Humt-DEBUG-succseful 1
+2018-03-31 15:35:31,270-D_On-Off-DEBUG-0.101582
+2018-03-31 15:35:31,271-D_On-Off-DEBUG-succseful 2
+2018-03-31 15:37:38,155-Soil_Humt-DEBUG-HTTPConnectionPool(host='www.lewei50.com', port=80): Read timed out. (read timeout=0.1)
+2018-03-31 15:37:38,155-Soil_Humt-DEBUG-Failed 1
+2018-03-31 15:37:38,161-D_On-Off-DEBUG-HTTPConnectionPool(host='www.lewei50.com', port=80): Read timed out. (read timeout=0.1)
+2018-03-31 15:37:38,161-D_On-Off-DEBUG-Failed 2
+2018-03-31 15:42:36,288-D_On-Off-DEBUG-Recive time 0.128268
+2018-03-31 15:42:36,288-D_On-Off-DEBUG-Succseful 1
+2018-03-31 15:42:36,308-Soil_Humt-DEBUG-Recive time 0.147646
+2018-03-31 15:42:36,308-Soil_Humt-DEBUG-Succseful 2
+2018-04-01 19:21:47,638-Soil_Humt-DEBUG-Recive time 0.588561
+2018-04-01 19:21:47,654-D_On-Off-DEBUG-Recive time 0.601591
+2018-04-01 19:21:47,669-Soil_Humt-DEBUG-Succseful 1
+2018-04-01 19:21:47,669-D_On-Off-DEBUG-Succseful 2
+2018-04-06 10:46:49,122-D_On-Off-DEBUG-HTTPConnectionPool(host='www.lewei50.com', port=80): Read timed out. (read timeout=0.1)
+2018-04-06 10:46:49,138-D_On-Off-DEBUG-Failed 1
+2018-04-06 10:46:49,153-Soil_Humt-DEBUG-Recive time 0.231261
+2018-04-06 10:46:49,153-Soil_Humt-DEBUG-Succseful 1
+2018-04-06 10:48:24,382-D_On-Off-DEBUG-Recive time 0.130033
+2018-04-06 10:48:24,382-D_On-Off-DEBUG-Succseful 1
+2018-04-06 10:48:24,413-Soil_Humt-DEBUG-Recive time 0.160548
+2018-04-06 10:48:24,413-Soil_Humt-DEBUG-Succseful 2
+2018-05-03 12:48:13,909-Soil_Humt-DEBUG-Recive time 0.561666
+2018-05-03 12:48:13,909-D_On-Off-DEBUG-Recive time 0.566671
+2018-05-03 12:48:13,956-Soil_Humt-DEBUG-Succseful 1
+2018-05-03 12:48:13,956-D_On-Off-DEBUG-Succseful 2
+2018-05-04 10:00:03,248-D_On-Off-DEBUG-HTTPConnectionPool(host='www.lewei50.com', port=80): Read timed out. (read timeout=0.1)
+2018-05-04 10:00:03,250-Soil_Humt-DEBUG-Recive time 0.146394
+2018-05-04 10:00:03,256-D_On-Off-DEBUG-Failed 1
+2018-05-04 10:00:03,256-Soil_Humt-DEBUG-Succseful 1
+2018-05-08 19:57:37,727-D_On-Off-DEBUG-HTTPConnectionPool(host='www.lewei50.com', port=80): Max retries exceeded with url: /api/V1/gateway/UpdateSensors/01 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E4A65017B8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',))
+2018-05-08 19:57:37,727-Soil_Humt-DEBUG-HTTPConnectionPool(host='www.lewei50.com', port=80): Max retries exceeded with url: /api/V1/gateway/UpdateSensors/01 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E4A6501DA0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',))
+2018-05-08 19:57:37,743-D_On-Off-DEBUG-Failed 1
+2018-05-08 19:57:37,744-Soil_Humt-DEBUG-Failed 2
